@@ -1,0 +1,23 @@
+* {
+  font-family: "Abel", sans-serif;
+}
+.calculator {
+  margin-top: 30px;
+  margin-left: 70px;
+  width: 300px;
+  height: 520px;
+  background-color: #323a47;
+  display: inline-block;
+  position: relative;
+}
+.screen {
+  color: #8b84ab;
+}
+
+.calc-row div {
+  background-color: #23272a;
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+  display: inline-block;
+}
