@@ -10,14 +10,31 @@
   display: inline-block;
   position: relative;
 }
+.header-section {
+  width: 300px;
+  height: 104px;
+  background-color: #f08031;
+  text-align: right;
+  /* padding-top: 30; */
+}
 .screen {
+  width: 300px;
+  height: 104px;
   color: #8b84ab;
 }
+.buttons {
+  width: 300px;
+  height: 312px;
+  display: inline-block;
+}
 
-.calc-row div {
+.buttons div {
   background-color: #23272a;
   width: 40px;
   height: 40px;
   margin-left: 5px;
-  display: inline-block;
+  /* display: inline-block; */
+  border-radius: 50%;
+  text-align: center;
+  color: #929989;
 }
