@@ -6,7 +6,7 @@
   margin-left: 70px;
   width: 300px;
   height: 520px;
-  background-color: #323a47;
+  background-color: #dfcaaa;
   display: inline-block;
   position: relative;
 }
@@ -20,7 +20,9 @@
 .screen {
   width: 300px;
   height: 104px;
-  color: #8b84ab;
+  /* color: #0f6b57; */
+  color: #10aea6;
+  background-color: #121116;
 }
 .buttons {
   width: 300px;
@@ -29,12 +31,12 @@
 }
 
 .buttons div {
-  background-color: #23272a;
+  background-color: #8a8b8c;
   width: 40px;
   height: 40px;
   margin-left: 5px;
   /* display: inline-block; */
   border-radius: 50%;
   text-align: center;
-  color: #929989;
+  color: white;
 }

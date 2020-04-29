@@ -15,7 +15,7 @@
             123456789
             </div>
         </div>
-      <div class="buttons">
+      <div class="buttons"> 
         <table>   
             <tr>
                 <td><div class="btn-clear">C</div></td>
